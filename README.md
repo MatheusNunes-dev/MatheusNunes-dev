@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matheus Nunes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-nunes-61679b239/) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MatheusNunes-dev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusNunes-dev&theme=midnight-purple&hide_border=false)<br/>
